@@ -1,0 +1,3 @@
+com\ProjectName\baseClass\BaseClass.class
+com\ProjectName\TestCases\TC1_LoginTest.class
+com\ProjectName\pageObjects\LoginPage.class
